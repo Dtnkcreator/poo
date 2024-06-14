@@ -1,6 +1,7 @@
 def world():
 
     print("Hello, World!")
+world()
 
 shark = "Baby Shark"
 
