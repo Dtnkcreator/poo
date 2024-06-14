@@ -4,4 +4,4 @@ class Adicao:
         self.n2 = n2_a
 
     def somar(self):
-        print(f"A soma é:  {self.n1} + {self.n2} = {self.n2+self.n2}")
+        print(f"A soma é:  {self.n1} + {self.n2} =", self.n1+self.n2)
